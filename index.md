@@ -64,3 +64,10 @@ layout: default
 　　最后怎么选？如果你追求极致的本地化和最低的价格，且不惧线下沟通，那么一张Orange或SFR的物理卡是你的不二之选。如果你珍视时间、怕麻烦，希望一步到位，eSIM的便捷性无可替代。
 
 　　希望这份指南能帮你扫清迷雾，在瓜德罗普的碧海蓝天下，随时都能把美好瞬间分享给世界。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Guadeloupe SIM 卡购买与激活指南](https://faciylike.github.io/guadeloupe-sim-guides)
